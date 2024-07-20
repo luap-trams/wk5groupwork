@@ -1,0 +1,39 @@
+
+body
+{
+  border: 0;
+  padding: 0;
+  margin: auto;
+  background-color: rgb(176, 171, 171);
+  width: 100vh;
+
+}
+.card-front
+{
+  background-color: white;
+  width: 40vh;
+  height: 40vh;
+  margin: auto;
+}
+img
+{
+  display: inline-flex;
+  flex-direction: row;
+  background-color: rgb(218, 212, 212);
+  border-radius: 100px;
+  justify-items: center;
+  align-self: center;
+
+}
+
+img p
+{
+  line-height: 20px;
+}
+/* div p
+{
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(218, 212, 212);
+
+} */
